@@ -12,8 +12,8 @@ const Navbar = () => {
             link: "/#about",
         },
         {
-            name: "Contact",
-            link: "/contact",
+            name: "Buy Me a Coffee",
+            link: "/buy-me-a-coffee",
         },
     ];
     return (
