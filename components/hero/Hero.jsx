@@ -4,7 +4,7 @@ import React from 'react'
 import { motion } from "framer-motion";
 import { AuroraBackground } from "@/components/ui/aurora-background";
 import Link from 'next/link';
-import { GithubIcon } from "@/components/icons";
+import { GithubIcon } from "@/components/Icons";
 
 const Hero = () => {
     return (
