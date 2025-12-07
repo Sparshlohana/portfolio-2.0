@@ -25,8 +25,8 @@ const Projects = () => {
                             }}
                         >
                             <PinContainer
-                                title="/bakaaa.sparshlohana.tech"
-                                href="https://bakaaa.sparshlohana.tech/"
+                                title="/bakaaa.sparshlohana.in"
+                                href="https://bakaaa.sparshlohana.in/"
                             >
                                 <div className="flex basis-full flex-col p-4 tracking-tight text-slate-100/20 sm:basis-1/2 w-[20rem] h-[20rem] ">
                                     <h3 className="max-w-xs !pb-2 !m-0 font-bold  text-base text-slate-100">
@@ -51,8 +51,8 @@ const Projects = () => {
                             }}
                         >
                             <PinContainer
-                                title="/dictionary.sparshlohana.tech"
-                                href="https://dictionary.sparshlohana.tech/"
+                                title="/dictionary.sparshlohana.in"
+                                href="https://dictionary.sparshlohana.in/"
                             >
                                 <div className="flex basis-full flex-col p-4 tracking-tight text-slate-100/20 sm:basis-1/2 w-[20rem] h-[20rem] ">
                                     <h3 className="max-w-xs !pb-2 !m-0 font-bold  text-base text-slate-100">
@@ -77,8 +77,8 @@ const Projects = () => {
                             }}
                         >
                             <PinContainer
-                                title="/checkyourgender.sparshlohana.tech/"
-                                href="https://checkyourgender.sparshlohana.tech/"
+                                title="/checkyourgender.sparshlohana.in/"
+                                href="https://checkyourgender.sparshlohana.in/"
                             >
                                 <div className="flex basis-full flex-col p-4 tracking-tight text-slate-100/20 sm:basis-1/2 w-[20rem] h-[20rem] ">
                                     <h3 className="max-w-xs !pb-2 !m-0 font-bold  text-base text-slate-100">
@@ -113,8 +113,8 @@ const Projects = () => {
                             }}
                         >
                             <PinContainer
-                                title="/weather.sparshlohana.tech"
-                                href="https://weather.sparshlohana.tech/"
+                                title="/weather.sparshlohana.in"
+                                href="https://weather.sparshlohana.in/"
                             >
                                 <div className="flex basis-full flex-col p-4 tracking-tight text-slate-100/20 sm:basis-1/2 w-[20rem] h-[20rem] ">
                                     <h3 className="max-w-xs !pb-2 !m-0 font-bold  text-base text-slate-100">
@@ -139,8 +139,8 @@ const Projects = () => {
                             }}
                         >
                             <PinContainer
-                                title="/qr.sparshlohana.tech"
-                                href="https://qr.sparshlohana.tech/"
+                                title="/qr.sparshlohana.in"
+                                href="https://qr.sparshlohana.in/"
                             >
                                 <div className="flex basis-full flex-col p-4 tracking-tight text-slate-100/20 sm:basis-1/2 w-[20rem] h-[20rem] ">
                                     <h3 className="max-w-xs !pb-2 !m-0 font-bold  text-base text-slate-100">
@@ -165,8 +165,8 @@ const Projects = () => {
                             }}
                         >
                             <PinContainer
-                                title="/qr.sparshlohana.tech"
-                                href="https://qr.sparshlohana.tech/"
+                                title="/qr.sparshlohana.in"
+                                href="https://qr.sparshlohana.in/"
                             >
                                 <div className="flex basis-full flex-col p-4 tracking-tight text-slate-100/20 sm:basis-1/2 w-[20rem] h-[20rem] ">
                                     <h3 className="max-w-xs !pb-2 !m-0 font-bold  text-base text-slate-100">
@@ -191,8 +191,8 @@ const Projects = () => {
                             }}
                         >
                             <PinContainer
-                                title="/bookmark.sparshlohana.tech/"
-                                href="https://bookmark.sparshlohana.tech"
+                                title="/bookmark.sparshlohana.in/"
+                                href="https://bookmark.sparshlohana.in"
                             >
                                 <div className="flex basis-full flex-col p-4 tracking-tight text-slate-100/20 sm:basis-1/2 w-[20rem] h-[20rem] ">
                                     <h3 className="max-w-xs !pb-2 !m-0 font-bold  text-base text-slate-100">
@@ -217,8 +217,8 @@ const Projects = () => {
                             }}
                         >
                             <PinContainer
-                                title="/ace.sparshlohana.tech"
-                                href="https://ace.sparshlohana.tech/"
+                                title="/ace.sparshlohana.in"
+                                href="https://ace.sparshlohana.in/"
                             >
                                 <div className="flex basis-full flex-col p-4 tracking-tight text-slate-100/20 sm:basis-1/2 w-[20rem] h-[20rem] ">
                                     <h3 className="max-w-xs !pb-2 !m-0 font-bold  text-base text-slate-100">
@@ -243,8 +243,8 @@ const Projects = () => {
                             }}
                         >
                             <PinContainer
-                                title="/counter.sparshlohana.tech/"
-                                href="https://counter.sparshlohana.tech/"
+                                title="/counter.sparshlohana.in/"
+                                href="https://counter.sparshlohana.in/"
                             >
                                 <div className="flex basis-full flex-col p-4 tracking-tight text-slate-100/20 sm:basis-1/2 w-[20rem] h-[20rem] ">
                                     <h3 className="max-w-xs !pb-2 !m-0 font-bold  text-base text-slate-100">
@@ -269,8 +269,8 @@ const Projects = () => {
                             }}
                         >
                             <PinContainer
-                                title="/enthub.sparshlohana.tech"
-                                href="https://enthub.sparshlohana.tech/"
+                                title="/enthub.sparshlohana.in"
+                                href="https://enthub.sparshlohana.in/"
                             >
                                 <div className="flex basis-full flex-col p-4 tracking-tight text-slate-100/20 sm:basis-1/2 w-[20rem] h-[20rem] ">
                                     <h3 className="max-w-xs !pb-2 !m-0 font-bold  text-base text-slate-100">
@@ -295,8 +295,8 @@ const Projects = () => {
                             }}
                         >
                             <PinContainer
-                                title="/quiz.sparshlohana.tech"
-                                href="https://quiz.sparshlohana.tech/"
+                                title="/quiz.sparshlohana.in"
+                                href="https://quiz.sparshlohana.in/"
                             >
                                 <div className="flex basis-full flex-col p-4 tracking-tight text-slate-100/20 sm:basis-1/2 w-[20rem] h-[20rem] ">
                                     <h3 className="max-w-xs !pb-2 !m-0 font-bold  text-base text-slate-100">
@@ -321,8 +321,8 @@ const Projects = () => {
                             }}
                         >
                             <PinContainer
-                                title="/whiteboard.sparshlohana.tech"
-                                href="https://whiteboard.sparshlohana.tech/"
+                                title="/whiteboard.sparshlohana.in"
+                                href="https://whiteboard.sparshlohana.in/"
                             >
                                 <div className="flex basis-full flex-col p-4 tracking-tight text-slate-100/20 sm:basis-1/2 w-[20rem] h-[20rem] ">
                                     <h3 className="max-w-xs !pb-2 !m-0 font-bold  text-base text-slate-100">
@@ -347,8 +347,8 @@ const Projects = () => {
                             }}
                         >
                             <PinContainer
-                                title="/rrr.sparshlohana.tech"
-                                href="https://rrr.sparshlohana.tech/"
+                                title="/rrr.sparshlohana.in"
+                                href="https://rrr.sparshlohana.in/"
                             >
                                 <div className="flex basis-full flex-col p-4 tracking-tight text-slate-100/20 sm:basis-1/2 w-[20rem] h-[20rem] ">
                                     <h3 className="max-w-xs !pb-2 !m-0 font-bold  text-base text-slate-100">
